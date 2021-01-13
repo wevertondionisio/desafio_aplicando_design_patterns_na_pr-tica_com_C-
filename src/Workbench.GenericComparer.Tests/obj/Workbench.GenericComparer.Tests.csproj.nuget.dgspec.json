@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.GenericComparer.Tests/Workbench.GenericComparer.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.Comparer/Workbench.Comparer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.Comparer/Workbench.Comparer.csproj",
+        "projectName": "Workbench.Comparer",
+        "projectPath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.Comparer/Workbench.Comparer.csproj",
+        "packagesPath": "/Users/wevertondionisio/.nuget/packages/",
+        "outputPath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.Comparer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wevertondionisio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.GenericComparer.Tests/Workbench.GenericComparer.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.GenericComparer.Tests/Workbench.GenericComparer.Tests.csproj",
+        "projectName": "Workbench.GenericComparer.Tests",
+        "projectPath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.GenericComparer.Tests/Workbench.GenericComparer.Tests.csproj",
+        "packagesPath": "/Users/wevertondionisio/.nuget/packages/",
+        "outputPath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.GenericComparer.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wevertondionisio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.Comparer/Workbench.Comparer.csproj": {
+                "projectPath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.Comparer/Workbench.Comparer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

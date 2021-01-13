@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPV6R2EgLrCEYcncNnqBErvuw/eF7YomhOwLDJGXLXvQ2q/xfRZ9Oh5LpKJW7YeT4jsb3EjpgVOTBd4SlMk+6A==",
+  "success": true,
+  "projectFilePath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.IFormatter.Extensions/Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "/Users/wevertondionisio/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/wevertondionisio/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

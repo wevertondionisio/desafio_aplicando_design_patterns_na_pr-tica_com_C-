@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A37Vp+s7rmUC8x8HTciBzFGgzHZPAjIlQ7EK0xMY94Z0RM7ZQ53RldpCvXV0oMzW4UW3ETdeXYs6nA8hIlM6kw==",
+  "success": true,
+  "projectFilePath": "/Users/wevertondionisio/Documents/Workspace/Desafios/desafio_aplicando_design_patterns_na_pratica_com_C#/desafio_aplicando_design_patterns_na_pratica_com_C/src/Workbench.DependencyInjection.Extensions/Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "/Users/wevertondionisio/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.9/microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
